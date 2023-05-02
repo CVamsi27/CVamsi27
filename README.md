@@ -1,6 +1,8 @@
-- 👋 Hello, I am Vamsi Krishna Chandaluri
-- 🌱 I’m currently developing my skills on Backed Development - Java
-- 📫 Reach me on Twitter: https://twitter.com/Vamsikrishna99C
+👋 Hello, I am Vamsi Krishna Chandaluri
+
+🌱 I’m currently developing my skills on Backed Development - Java
+
+📫 Reach me on Twitter: https://twitter.com/Vamsikrishna99C
 
 ## GitHub Stats
 
