@@ -4,11 +4,11 @@
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CVamsi27&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CVamsi27&show_icons=true&theme=midnight-purple)
 
 ## 2. Most Used Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CVamsi27&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CVamsi27&theme=midnight-purple)
 
 ## 3. Random Joke Generator
 
